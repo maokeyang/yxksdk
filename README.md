@@ -1,13 +1,13 @@
 # Laravel Yxksdk
 
-Laravel Yxksdk is a package for Laravel 5 developed by [hank](http://cuiqingcai.com). It provides simple usage for laravel of [Yxksdk](http://www.youxiake.com/). 
+Laravel Yxksdk is a package for Laravel 5 developed by [maokeyang](https://github.com/maokeyang). It provides simple usage for laravel of [Yxksdk](http://www.youxiake.com/). 
 
 
 ## Installation
 
 Laravel 5.0 or later is required.
 
-To get the latest version of Laravel Geetest, simply require the project using Composer:
+To get the latest version of Laravel Yxksdk, simply require the project using Composer:
 
 ```
 $ composer require maokeyang/yxksdk
@@ -50,14 +50,6 @@ This will create a config file named `config/yxksdk.php` which you can configure
 
 ## Usage
 
-Firstly, You need to register in [Geetest](http://www.geetest.com/). Creating an app and get `ID` and `KEY`.
-
-For example. You can see app `ID` and `KEY` after you added an app in [Geetest Admin Page](http://account.geetest.com)
-
-![](https://ws3.sinaimg.cn/large/006tKfTcly1fh3qherw91j31kw0e6q4p.jpg)
-
-Then configure them in your `.env` file because you'd better not make them public.
-
 Add them to `.env` as follows:
 
 ```
@@ -67,7 +59,7 @@ YXK_SECRET=maokeyang1031
 
 ## Contribution
 
-If you find something wrong with this package, you can send an email to `cqc@cuiqingcai.com`
+If you find something wrong with this package, you can send an email to `11959190921@qq.com`
 
 Or just send a pull request to this repository. 
 
@@ -75,7 +67,7 @@ Pull Requests are really welcomed.
 
 ## Author
 
-[Maokeyang](http://cuiqingcai.com) , from Hangzhou China
+[Maokeyang](https://github.com/maokeyang) , from Hangzhou China
 
 ## License
 
