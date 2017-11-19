@@ -17,7 +17,7 @@
                 "Maokeyang\\Yxksdk\\YxksdkServiceProvider"
             ],
             "aliases": {
-                "EasyWeChat": "Maokeyang\\Yxksdk\\Yxksdk"
+                "Yxksdk": "Maokeyang\\Yxksdk\\Yxksdk"
             }
         }
     }
