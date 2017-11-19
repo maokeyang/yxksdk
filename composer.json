@@ -1,0 +1,14 @@
+{
+    "name": "maokeyang/yxksdk",
+    "description": "youxiake base service api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maoekyang",
+            "email": "maokeyang1031@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
