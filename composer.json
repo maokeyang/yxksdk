@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "maoekyang",
+            "name": "maokeyang",
             "email": "maokeyang1031@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Maokyang\\Yxksdk\\": "src/"
+            "Maokeyang\\Yxksdk\\": "src/"
         }
     },
     "extra": {
