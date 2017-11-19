@@ -16,6 +16,6 @@ trait YxksdkMessage
      */
     public function sendMessage(array $param)
     {
-        echo $this->appId . '-' . json_encode($param) . '-' . $this->appSecret;
+        return $this->appId . '-' . json_encode($param) . '-' . $this->appSecret;
     }
 }
